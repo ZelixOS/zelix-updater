@@ -2,7 +2,7 @@
 
 A system update application for ZelixOS, written in Python and PyQt6. It checks configured pacman repositories for updates and displays the operation output.
 
-![ZelixOS system tools screenshot](docs/images/zelix-tools.png)
+![Latest Zelix Updater screen in the ZelixOS live desktop](docs/images/zelix-tools.png)
 
 Zelix Updater handles pacman repository updates and presents command output in a graphical interface. The UI supports English, Turkish, and Spanish; AUR and Flatpak updates remain managed separately.
 
